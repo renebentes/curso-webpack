@@ -1,0 +1,26 @@
+{
+  "name": "curso-webpack",
+  "version": "1.0.0",
+  "description": "Aprenda como sanar as principais necessidades de desenvolvimento com uma única ferramenta",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.32.2"
+  },
+  "scripts": {
+    "build": "webpack --config ./webpack/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renebentes/curso-webpack.git"
+  },
+  "keywords": [
+    "webpack, bundle, TreinaWeb"
+  ],
+  "author": "Rene Bentes Pinto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renebentes/curso-webpack/issues"
+  },
+  "homepage": "https://github.com/renebentes/curso-webpack#readme"
+}

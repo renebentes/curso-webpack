@@ -15,3 +15,4 @@ Cada aula do curso está separada por branches, tornando mais fácil encontrar e
 | Branch                                                                           | Descrição                                                                      |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [aula-02-01](https://github.com/renebentes/curso-webpack/archive/aula-02-01.zip) | Primeiro comando - Utiliza o Webpack por linha de comando em instalação global |
+| [aula-02-02](https://github.com/renebentes/curso-webpack/archive/aula-02-02.zip) | Arquivo de Configuração                                                        |
