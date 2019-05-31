@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
+    "url-loader": "^1.1.2",
     "webpack": "^4.32.2"
   },
   "scripts": {
