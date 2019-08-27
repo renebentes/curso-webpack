@@ -12,7 +12,7 @@ module.exports = {
     index2: `${PATHS.src / index2.js}`
   },
   output: {
-    filename: '[name].[hash].js',
+    filename: '[name].[chunkhash].js',
     path: PATHS.build
   },
   module: {
