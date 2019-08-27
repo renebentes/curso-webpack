@@ -20,3 +20,4 @@ Cada aula do curso está separada por branches, tornando mais fácil encontrar e
 | [aula-02-04](https://github.com/renebentes/curso-webpack/archive/aula-02-04.zip) | Plugins                                                                        |
 | [aula-03-01](https://github.com/renebentes/curso-webpack/archive/aula-03-01.zip) | Múltiplas entradas e saídas                                                    |
 | [aula-03-02](https://github.com/renebentes/curso-webpack/archive/aula-03-02.zip) | Placeholders                                                                   |
+| [aula-03-03](https://github.com/renebentes/curso-webpack/archive/aula-03-03.zip) | Carregando códigos de terceiros                                                |
