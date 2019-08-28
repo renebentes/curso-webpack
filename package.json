@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Aprenda como sanar as principais necessidades de desenvolvimento com uma única ferramenta",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
   "devDependencies": {
     "url-loader": "^2.1.0",
     "webpack": "^4.39.3",
